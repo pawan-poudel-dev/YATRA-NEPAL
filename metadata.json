@@ -1,0 +1,9 @@
+{
+  "name": "Yatra Nepal",
+  "description": "Interactive Himalayan Hidden Gems Explorer featuring custom vector topography maps, touch-gesture tracking, caching translation engine with regional Nepalese support, interactive travel safety altitude checkups, and offline-durable custom trek itinerary builders.",
+  "Overwrite": true,
+  "TargetFile": "/metadata.json",
+  "toolAction: ": "Updating project metadata with brand name 'Yatra Nepal'",
+  "toolAction": "Editing file",
+  "toolSummary": "Metadata update"
+}

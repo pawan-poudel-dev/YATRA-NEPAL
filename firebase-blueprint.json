@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "user": {
+      "title": "User",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "role": { "type": "string", "enum": ["user", "admin"] },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "hiddenGem": {
+      "title": "Hidden Gem",
+      "description": "A tourist destination in Nepal",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "description": { "type": "string" },
+        "localDescription": { "type": "string" },
+        "translation": { "type": "string" },
+        "category": { "type": "string", "enum": ["Lakes", "Waterfalls", "Villages", "Temples", "Trekking"] },
+        "crowdLevel": { "type": "string", "enum": ["low", "medium", "high"] },
+        "safetyStatus": { "type": "string", "enum": ["safe", "caution", "restricted"] },
+        "bestSeason": { "type": "string" },
+        "howToReach": { "type": "array", "items": { "type": "string" } },
+        "thingsToExplore": { "type": "array", "items": { "type": "string" } },
+        "localTips": { "type": "array", "items": { "type": "string" } },
+        "imageUrl": { "type": "string" },
+        "location": { "type": "object", "properties": { "lat": { "type": "number" }, "lng": { "type": "number" } } },
+        "distance": { "type": "string" },
+        "isLocalsLove": { "type": "boolean" },
+        "isHiddenGem": { "type": "boolean" }
+      }
+    },
+    "safetyCheck": {
+      "title": "Safety Check",
+      "description": "User safety status check-in",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" },
+        "status": { "type": "string", "enum": ["safe", "need_help", "danger"] },
+        "location": { "type": "object", "properties": { "lat": { "type": "number" }, "lng": { "type": "number" } } }
+      }
+    }
+  },
+  "firestore": {
+    "/users/{uid}": {
+      "schema": "user",
+      "description": "User profiles"
+    },
+    "/hiddenGems/{gemId}": {
+      "schema": "hiddenGem",
+      "description": "Tourist destinations"
+    },
+    "/safetyChecks/{checkId}": {
+      "schema": "safetyCheck",
+      "description": "Safety check-in logs"
+    }
+  }
+}
