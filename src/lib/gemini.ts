@@ -136,7 +136,7 @@ export const STATIC_GEMS = [
         name: "Thani Mai Temple Hiking Pathway",
         type: "Hiking Trail",
         description: "A steep stone pathway offering spectacular sunrise views over the Marsyangdi River Valley.",
-        photoUrl: "https://www.nepaltrekking.com/wp-content/uploads/2020/01/Bandipur-trekking.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bandipur_Nepal.jpg/600px-Bandipur_Nepal.jpg"
       },
       {
         name: "Khadga Devi Temple",
@@ -170,7 +170,7 @@ export const STATIC_GEMS = [
         name: "Annapurna View Homestay House",
         priceNPR: 1600,
         details: "Enjoy freshly gathered organic vegetables straight from the backyard farm and hot spring advice.",
-        photoUrl: "https://media.nepaltrekadventures.com/uploads/img/ghandruk-homestay.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ghandruk_village_Nepal.jpg/600px-Ghandruk_village_Nepal.jpg"
       }
     ],
     hikingAndTemples: [
@@ -178,7 +178,7 @@ export const STATIC_GEMS = [
         name: "Jhinu Danda Hot Springs Hike",
         type: "Hiking Trail",
         description: "Descend into the roaring Modi Khola gorge to natural, soothing thermal sulphur pools.",
-        photoUrl: "https://www.nepalhiking.com/wp-content/uploads/2018/03/jhinu-hot-spring.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jhinu_hot_spring_Modi_Khola.jpg/600px-Jhinu_hot_spring_Modi_Khola.jpg"
       },
       {
         name: "Ghandruk Gurung Cultural Museum",
@@ -206,7 +206,7 @@ export const STATIC_GEMS = [
         name: "Thakali Apple Orchard Villa",
         priceNPR: 2200,
         details: "Traditional white mud-brick rooms overlooking vast apple fields. Hosts offer cellar apple cider.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2019/10/marpha-village-homestay.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Marpha_Village_Mustang.jpg/600px-Marpha_Village_Mustang.jpg"
       },
       {
         name: "Luku-La Ancestral Home",
@@ -226,7 +226,7 @@ export const STATIC_GEMS = [
         name: "Chhairo Refugee Settlement Trail",
         type: "Hiking Trail",
         description: "Trace historic caravan trails through pine woods to ancient yak-wool weaving stations.",
-        photoUrl: "https://nepalecoadventure.com/wp-content/uploads/2019/08/Upper-Mustang-Trek.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/600px-The_Muktinath_Temple.jpg"
       }
     ]
   },
@@ -242,19 +242,19 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Glacial Lake", "Rolwaling Valley", "Beding Village"],
     localTips: ["Acclimatize properly", "Carry warm clothing even in summer"],
     category: "Nature",
-    imageUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/03/Tsho-Rolpa-Lake.jpg",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cho-Rolpa_Glacier_lake.jpg/1200px-Cho-Rolpa_Glacier_lake.jpg",
     homestays: [
       {
         name: "Beding Sherpa Alpine Homestay",
         priceNPR: 1350,
         details: "Authentic yak and potato based high elevation diet, heavy wool blankets, solar light support.",
-        photoUrl: "https://media.nepaltrekadventures.com/uploads/img/rolwaling-valley-beding.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cho-Rolpa_Glacier_lake.jpg/600px-Cho-Rolpa_Glacier_lake.jpg"
       },
       {
         name: "Simigaon Community Cliffhouse",
         priceNPR: 1100,
         details: "A breathtaking house built on structural wooden pillars overlooking the wild Tamakoshi gorge.",
-        photoUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2020/01/rolwaling-valley-trek.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/On_the_way_to_Tsho-Rolpa_Glacier_Lake.jpg/600px-On_the_way_to_Tsho-Rolpa_Glacier_Lake.jpg"
       }
     ],
     hikingAndTemples: [
@@ -262,13 +262,13 @@ export const STATIC_GEMS = [
         name: "Under-Gorge Beding Gompa",
         type: "Secret Temple",
         description: "An incredible ancient Buddhist cave temple built directly under massive limestone waterfalls.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/03/beding-gompa-rolwaling.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/On_the_way_to_Tsho-Rolpa_Glacier_Lake.jpg/600px-On_the_way_to_Tsho-Rolpa_Glacier_Lake.jpg"
       },
       {
         name: "Tsho Rolpa Glacier Lake Loop",
         type: "Hiking Trail",
         description: "A gorgeous trek surrounded by towering ice shields, culminating in a giant brilliant blue glacial basin.",
-        photoUrl: "https://www.himalayatrekkinginnepal.com/wp-content/uploads/2019/11/tsho-rolpa-glacial-lake.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cho-Rolpa_Glacier_lake.jpg/600px-Cho-Rolpa_Glacier_lake.jpg"
       }
     ]
   },
@@ -284,19 +284,19 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Five Sacred Lakes", "Jugal Himal Views", "Local Culture"],
     localTips: ["Visit during Janai Purnima for the festival", "Carry your own camping gear"],
     category: "Nature",
-    imageUrl: "https://www.nepaltrekking.com/wp-content/uploads/2020/08/panch-pokhari-lake.jpg",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Panch_Pokhari_Lakes.jpg/1200px-Panch_Pokhari_Lakes.jpg",
     homestays: [
       {
         name: "Bhotang Tamang Cultural Haven",
         priceNPR: 1200,
         details: "Cozy rooms, traditional bamboo-shoot curries, and rich stories of Tamang folklore over firewood.",
-        photoUrl: "https://media.nepaltrekadventures.com/uploads/img/tamang-heritage-trail-homestay.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tamang_family_Nepal.jpg/600px-Tamang_family_Nepal.jpg"
       },
       {
         name: "Jugal Footprint Eco-Camp Site",
         priceNPR: 1000,
         details: "Clean setup under raw starry skies, hot local ginger soup, and expert trail route guides.",
-        photoUrl: "https://www.nepalhiking.com/wp-content/uploads/2019/05/sindhupalchok-camp.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Panch_Pokhari_Lakes.jpg/600px-Panch_Pokhari_Lakes.jpg"
       }
     ],
     hikingAndTemples: [
@@ -304,13 +304,13 @@ export const STATIC_GEMS = [
         name: "Five Sacred Lakes Temple Circuit",
         type: "Secret Temple",
         description: "Small stone temples dedicated to Lord Shiva, surrounding 5 pristine lakes reflecting the starry sky.",
-        photoUrl: "https://www.nepaltrekking.com/wp-content/uploads/2020/08/panch-pokhari-temple.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Panch_Pokhari_Lakes.jpg/600px-Panch_Pokhari_Lakes.jpg"
       },
       {
         name: "Bhotang Cliff Forest Pathway",
         type: "Hiking Trail",
         description: "Scale high rocky cliffs covered in vibrant orchid forests overlooking wild waterfalls.",
-        photoUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2021/03/jugal-himal-trek.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Panch_Pokhari_Lakes.jpg/600px-Panch_Pokhari_Lakes.jpg"
       }
     ]
   },
@@ -332,7 +332,7 @@ export const STATIC_GEMS = [
         name: "Phu Village Traditional Lodge",
         priceNPR: 1800,
         details: "Authentic stone mountain room. Includes tour of century-old yak dung stoves and barley grinding stations.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/04/phu-village-lodge.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phu_village_Nepal.jpg/600px-Phu_village_Nepal.jpg"
       },
       {
         name: "Nar Community Stone House",
@@ -346,7 +346,7 @@ export const STATIC_GEMS = [
         name: "Tashi Lhakhang Monastery Climb",
         type: "Secret Temple",
         description: "One of the oldest Buddhist monasteries in the region offering serene prayer rooms tucked in the rocks.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/04/nar-phu-monastery.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Nar_village_Nepal.jpg/600px-Nar_village_Nepal.jpg"
       },
       {
         name: "Kang La Pass Trailhead",
@@ -382,7 +382,7 @@ export const STATIC_GEMS = [
         name: "Thasung Chholing Gompa",
         type: "Secret Temple",
         description: "A stunning centuries-old Bon monastery located at the eastern shore of the turquoise lake.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/05/shey-phoksundo-monastery.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Shey_Phoksundo_Lake_Dolpa.jpg/600px-Shey_Phoksundo_Lake_Dolpa.jpg"
       },
       {
         name: "Ringmo Alpine Trek",
@@ -418,7 +418,7 @@ export const STATIC_GEMS = [
         name: "Triveni Confluence High Alt Shrines",
         type: "Secret Temple",
         description: "Meeting point of three rivers featuring three sacred shrines on rolling green meadows.",
-        photoUrl: "https://www.nepaltrekking.com/wp-content/uploads/2021/04/khaptad-triveni-temple.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Khaptad_National_Park_Nepal.jpg/600px-Khaptad_National_Park_Nepal.jpg"
       },
       {
         name: "Khaptad Meadows Hiking Area",
@@ -440,13 +440,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Blue Sheep", "High Altitude Meadows", "Local Kham Magar Culture"],
     localTips: ["Hunting requires expensive licenses", "Great for bird watching"],
     category: "Adventure",
-    imageUrl: "https://www.welcomenepal.com/uploads/destination/dhorpatan-hunting-reserve.jpg",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_sheep_Pseudois_nayaur.jpg/1200px-Blue_sheep_Pseudois_nayaur.jpg",
     homestays: [
       {
         name: "Kham Magar Heritage Lodge",
         priceNPR: 1400,
         details: "Unique wooden house structure. Hosts share legendary tales of wildlife tracking and leopard spotters.",
-        photoUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2021/05/dhorpatan-lodge.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nepali_traditional_house.jpg/600px-Nepali_traditional_house.jpg"
       }
     ],
     hikingAndTemples: [
@@ -454,7 +454,7 @@ export const STATIC_GEMS = [
         name: "Uttarganga Temple Complex",
         type: "Secret Temple",
         description: "A small sacred riverside temple dedicated to Lord Varaha surrounded by pristine mountain valley view.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/07/dhorpatan-temple.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_sheep_Pseudois_nayaur.jpg/600px-Blue_sheep_Pseudois_nayaur.jpg"
       }
     ]
   },
@@ -470,13 +470,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Endless rolling green grasslands", "Badimalika temple views", "Misty mountain ridges and morning clouds"],
     localTips: ["There are no commercial hotels on the pastures, so carry sleeping bags", "Hire a local guide to avoid getting lost in misty trails"],
     category: "Adventure",
-    imageUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2021/06/badimalika-temple-bajura.jpg",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Badimalika_Temple_Bajura.jpg/1200px-Badimalika_Temple_Bajura.jpg",
     homestays: [
       {
         name: "Maure Village Shelter",
         priceNPR: 1200,
         details: "Warm mountain cabin. Hosts cook local black lentil soup, millet bread, and offer advice on ridge navigation.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2021/06/bajura-village-homestay.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Badimalika_Temple_Bajura.jpg/600px-Badimalika_Temple_Bajura.jpg"
       }
     ],
     hikingAndTemples: [
@@ -484,7 +484,7 @@ export const STATIC_GEMS = [
         name: "Badimalika Bhagwati Temple",
         type: "Secret Temple",
         description: "Perched high on a razor thin grass ridge overlooking infinite green valleys under soft clouds.",
-        photoUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2021/06/badimalika-bhagwati-temple.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Badimalika_Temple_Bajura.jpg/600px-Badimalika_Temple_Bajura.jpg"
       }
     ]
   },
@@ -500,13 +500,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Makalu Base Camp", "Waterfalls", "Rare Flora and Fauna"],
     localTips: ["One of the wettest regions in Nepal", "Be prepared for leeches in monsoon"],
     category: "Nature",
-    imageUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/09/barun-valley-makalu.jpg",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Makalu_from_Barun_valley.jpg/1200px-Makalu_from_Barun_valley.jpg",
     homestays: [
       {
         name: "Num Community Sherpa Homestay",
         priceNPR: 1100,
         details: "Basic but extremely welcoming shelter. Serves fresh boiled mountain nettles, ginger tea, and potatoes.",
-        photoUrl: "https://www.himalayantrekkers.com/wp-content/uploads/2021/07/num-village-sankhuwasabha.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nepali_traditional_house.jpg/600px-Nepali_traditional_house.jpg"
       }
     ],
     hikingAndTemples: [
@@ -514,7 +514,7 @@ export const STATIC_GEMS = [
         name: "Makalu Base Pass",
         type: "Hiking Trail",
         description: "Rugged cliffs and giant gushing waterfalls cascading down thousands of meters from giant glaciers.",
-        photoUrl: "https://www.nepalhimalayatrek.com/wp-content/uploads/2020/09/makalu-base-camp-trek.jpg"
+        photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Makalu_from_Barun_valley.jpg/600px-Makalu_from_Barun_valley.jpg"
       }
     ]
   }
