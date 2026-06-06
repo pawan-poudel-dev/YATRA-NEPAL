@@ -116,19 +116,19 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Tundikhel", "Thani Mai Temple", "Siddha Gufa"],
     localTips: ["Stay in a traditional heritage home", "Watch the sunrise from the ridge"],
     category: "Villages",
-    imageUrl: "https://images.unsplash.com/photo-1605640840605-14ac1855827b?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://firstcamptrek.com/wp-content/uploads/2025/07/Bandipur.webp",
     homestays: [
       {
         name: "Old Inn Bandipur Heritage",
         priceNPR: 2200,
         details: "Traditional brick dwelling with traditional wooden carvings, serving organic local Newari Samay Baji.",
-        photoUrl: "https://images.unsplash.com/photo-1605640840605-14ac1855827b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Thani Mai Horizon Homestay",
         priceNPR: 1500,
         details: "Located near the ridge stairs, offering hot homemade millet pancakes and fresh goat milk.",
-        photoUrl: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -136,13 +136,13 @@ export const STATIC_GEMS = [
         name: "Thani Mai Temple Hiking Pathway",
         type: "Hiking Trail",
         description: "A steep stone pathway offering spectacular sunrise views over the Marsyangdi River Valley.",
-        photoUrl: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Khadga Devi Temple",
         type: "Secret Temple",
         description: "Enshrines the sacred sword of the King of Palpa, opened to pilgrims once a year.",
-        photoUrl: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -158,13 +158,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Gurung Museum", "Old Village Walk", "Himalayan Views"],
     localTips: ["Try local Gurung bread", "Wear traditional Gurung dress for photos"],
     category: "Villages",
-    imageUrl: "https://images.unsplash.com/photo-1571003084773-e3c5f82fd9f1?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://asianheritagetreks.com/wp-content/uploads/2017/01/ghandruk-2.jpg",
     homestays: [
       {
         name: "Gurung Heritage Eco-Lodge",
         priceNPR: 1950,
         details: "Learn authentic Gurung hand-loom weaving and feast on slow-cooked organic nettle soup.",
-        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Annapurna View Homestay House",
@@ -178,13 +178,13 @@ export const STATIC_GEMS = [
         name: "Jhinu Danda Hot Springs Hike",
         type: "Hiking Trail",
         description: "Descend into the roaring Modi Khola gorge to natural, soothing thermal sulphur pools.",
-        photoUrl: "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Ghandruk Gurung Cultural Museum",
         type: "Culture Spot",
         description: "Discover historic Gurung weapons, utensils, handloom weaving tools, and traditional costumes.",
-        photoUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -200,13 +200,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Apple Orchards", "Marpha Monastery", "Stone-paved Alleys"],
     localTips: ["Taste the local apple brandy", "Visit the distillery"],
     category: "Villages",
-    imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://acehiking.com/wp-content/uploads/2024/06/marpha-village.jpg",
     homestays: [
       {
         name: "Thakali Apple Orchard Villa",
         priceNPR: 2200,
         details: "Traditional white mud-brick rooms overlooking vast apple fields. Hosts offer cellar apple cider.",
-        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Luku-La Ancestral Home",
@@ -220,7 +220,7 @@ export const STATIC_GEMS = [
         name: "Marpha Gompa Valley Climb",
         type: "Secret Temple",
         description: "A legendary 300-year-old Nyingma monastery tucked high in the mountain clefts.",
-        photoUrl: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Chhairo Refugee Settlement Trail",
@@ -248,13 +248,13 @@ export const STATIC_GEMS = [
         name: "Beding Sherpa Alpine Homestay",
         priceNPR: 1350,
         details: "Authentic yak and potato based high elevation diet, heavy wool blankets, solar light support.",
-        photoUrl: "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Simigaon Community Cliffhouse",
         priceNPR: 1100,
         details: "A breathtaking house built on structural wooden pillars overlooking the wild Tamakoshi gorge.",
-        photoUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -262,7 +262,7 @@ export const STATIC_GEMS = [
         name: "Under-Gorge Beding Gompa",
         type: "Secret Temple",
         description: "An incredible ancient Buddhist cave temple built directly under massive limestone waterfalls.",
-        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Tsho Rolpa Glacier Lake Loop",
@@ -290,7 +290,7 @@ export const STATIC_GEMS = [
         name: "Bhotang Tamang Cultural Haven",
         priceNPR: 1200,
         details: "Cozy rooms, traditional bamboo-shoot curries, and rich stories of Tamang folklore over firewood.",
-        photoUrl: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Jugal Footprint Eco-Camp Site",
@@ -304,13 +304,13 @@ export const STATIC_GEMS = [
         name: "Five Sacred Lakes Temple Circuit",
         type: "Secret Temple",
         description: "Small stone temples dedicated to Lord Shiva, surrounding 5 pristine lakes reflecting the starry sky.",
-        photoUrl: "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Bhotang Cliff Forest Pathway",
         type: "Hiking Trail",
         description: "Scale high rocky cliffs covered in vibrant orchid forests overlooking wild waterfalls.",
-        photoUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -332,13 +332,13 @@ export const STATIC_GEMS = [
         name: "Phu Village Traditional Lodge",
         priceNPR: 1800,
         details: "Authentic stone mountain room. Includes tour of century-old yak dung stoves and barley grinding stations.",
-        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Nar Community Stone House",
         priceNPR: 1500,
         details: "Sleep under thick sheep wool blankets. Hostess serves boiled buckwheat dumplings and homemade salt butter tea.",
-        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -346,13 +346,13 @@ export const STATIC_GEMS = [
         name: "Tashi Lhakhang Monastery Climb",
         type: "Secret Temple",
         description: "One of the oldest Buddhist monasteries in the region offering serene prayer rooms tucked in the rocks.",
-        photoUrl: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Kang La Pass Trailhead",
         type: "Hiking Trail",
         description: "Climb past fields of wild blue sheep, crossing a stunning 5,300m pass looking down on the Annapurnas.",
-        photoUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -368,13 +368,13 @@ export const STATIC_GEMS = [
     thingsToExplore: ["Turquoise Lake", "Ringmo Village", "Bon Monasteries"],
     localTips: ["No swimming allowed", "Respect local Bon traditions"],
     category: "Nature",
-    imageUrl: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://www.responsibletreks.com/wp-content/uploads/2022/01/Lake-Phoksundo-2048x1365.jpg",
     homestays: [
       {
         name: "Ringmo Bon-Tibetan Eco Lodge",
         priceNPR: 1600,
         details: "Learn ancient Tibetan wood crafts, sleep on wool carpets, and try authentic dry wild mushrooms.",
-        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -382,13 +382,13 @@ export const STATIC_GEMS = [
         name: "Thasung Chholing Gompa",
         type: "Secret Temple",
         description: "A stunning centuries-old Bon monastery located at the eastern shore of the turquoise lake.",
-        photoUrl: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Ringmo Alpine Trek",
         type: "Hiking Trail",
         description: "Trace pine forests and rocky edges where the movie Caravan was filmed.",
-        photoUrl: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -410,7 +410,7 @@ export const STATIC_GEMS = [
         name: "Silgadhi Gateway Homestay House",
         priceNPR: 1250,
         details: "Dine on pure ghee-steeped flatbreads (chappatis) and local mountain honey on comfortable mattresses.",
-        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -418,13 +418,13 @@ export const STATIC_GEMS = [
         name: "Triveni Confluence High Alt Shrines",
         type: "Secret Temple",
         description: "Meeting point of three rivers featuring three sacred shrines on rolling green meadows.",
-        photoUrl: "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       },
       {
         name: "Khaptad Meadows Hiking Area",
         type: "Hiking Trail",
         description: "Cross 22 pristine rolling green grasslands with rich collections of high altitude medicinal herbs.",
-        photoUrl: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -446,7 +446,7 @@ export const STATIC_GEMS = [
         name: "Kham Magar Heritage Lodge",
         priceNPR: 1400,
         details: "Unique wooden house structure. Hosts share legendary tales of wildlife tracking and leopard spotters.",
-        photoUrl: "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -454,7 +454,7 @@ export const STATIC_GEMS = [
         name: "Uttarganga Temple Complex",
         type: "Secret Temple",
         description: "A small sacred riverside temple dedicated to Lord Varaha surrounded by pristine mountain valley view.",
-        photoUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80"
       }
     ]
   },
@@ -476,7 +476,7 @@ export const STATIC_GEMS = [
         name: "Maure Village Shelter",
         priceNPR: 1200,
         details: "Warm mountain cabin. Hosts cook local black lentil soup, millet bread, and offer advice on ridge navigation.",
-        photoUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
@@ -506,7 +506,7 @@ export const STATIC_GEMS = [
         name: "Num Community Sherpa Homestay",
         priceNPR: 1100,
         details: "Basic but extremely welcoming shelter. Serves fresh boiled mountain nettles, ginger tea, and potatoes.",
-        photoUrl: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&w=600&q=80"
+        photoUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80"
       }
     ],
     hikingAndTemples: [
